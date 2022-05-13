@@ -28,9 +28,9 @@ const Project = () => {
               <a href="https://github.com/mustafabin/hater">Github</a>
             </div>
             <p>
-              a Twitter clone in a group of 9 where we created a relational
-              database using PostgreSQL with Session-based login to authenticate
-              comments and posts 👺 🐥
+              Twitter clone full stack app using a SQL and the Django Rest
+              Framework with Session-based login to authenticate user's comments
+              and posts 👺 🐥
             </p>
             <div className="project-tools">
               <img src={postgres} alt="postgres" />
